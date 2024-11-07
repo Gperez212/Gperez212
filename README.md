@@ -2,7 +2,7 @@
 - 👀 I’m interested in traveling, the gym, the beach, and new experiences
 - 🌱 I’m currently learning Data visualization with Tableau but would like to get more experienced with SQL
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me is by email: mkviig212@yahoo.com
+- 📫 How to reach me is by email: gperez212@yahoo.com
 - ⚡ Fun fact: I was previously a Automotive Technician and now starting my new career as a Business Intelligence Analyst. Looking forward to landing my first job, gain more experience and progress throughout my journey/career.
 
 <!---
